@@ -82,6 +82,8 @@ BIFX-550 Find-a-Gene template, github.com/ravichas/bifx550-find-a-gene-template.
 
 
 
+unnamed protein product [Pseudaplemonus limonii] [Internet]. Bethesda (MD): National Library of Medicine (US), National Center for Biotechnology Information; [1988] – . Accession No. CAR8053950.1, unnamed protein product, Pseudaplemonus limonii ; [cited 2026 11 03]. Available from: https://www.ncbi.nlm.nih.gov/protein/CAR8053950.1?report=genpept
+
 Dohmen, E., Klasberg, S., Bornberg‐Bauer, E., Perrey, S. W., & Kemena, C. (2020). The modular nature of protein evolution: domain rearrangement rates across eukaryotic life. BMC Evolutionary Biology, 20(1), 30. https://doi.org/10.1186/s12862-020-1591-0
 
 Kaur, J., Sharma, A., Sharma, M., Manhas, R. K., Kaur, S., & Kaur, A. (2019). Effect of α-glycosidase inhibitors from endophytic fungus Alternaria destruens on survival and development of insect pest Spodoptera litura Fab. and fungal phytopathogens. Scientific Reports, 9(1), 11400. https://doi.org/10.1038/s41598-019-47838-6
