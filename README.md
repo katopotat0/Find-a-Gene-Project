@@ -7,7 +7,7 @@ Author: Kate Kruczynski (Katopotat0)
 
 ## Summary
 
-[Two or three sentences: the starting protein you searched with, the novel candidate you found and in which organism, and your key finding.]
+This repository contains the needed files, methods, and final results for a project to find a novel gene from a starting protein of interest. The starting protein for this analysis is human GAA - alpha glucosidase, an important enzyme for the breakdown of glycogen into glucose. The basic structure of this protein is very conserved within most lifeforms as processing glycogen is an essential function of metabolism. The novel protein which I located was an "unnamed protein product" from a very newly sequence insect species, Pseudaplemonus limonii. This insect does not have an established common name in English, although there are common German and Dutch names for it. The Dutch name is Lamsoorspitsmuisje "Sea Lavender Shrew" referring to its habitat and likely its resemblance to the rodent known as a shrew. I refer to it as the Lavender Weevil within this analysis for clarity and brevity. 
 
 | Item | Value |
 |---|---|
@@ -59,10 +59,10 @@ Tool versions, access dates, and parameters for every step are recorded in [scri
 [What the BLASTp search against nr returned and why the candidate counts as novel.]
 
 ### Alignment and phylogeny
-[Conserved regions; where the novel protein falls in the tree; support values.]
+The Lavender Weevil gene shares the highly conserved WIDMNE motif with human GAA. 
 
 ### Structure
-[Prediction confidence; similarity to the closest PDB entry; notable differences.]
+Alphafold Model - pTM = 0.85, plDDT > 90 for majority of structure.
 
 ## Limitations and next steps
 
@@ -78,4 +78,10 @@ Inputs are in `data/`. Every step, with its tool, version or access date, parame
 
 ## References
 
-[Databases, tools, and papers used, with versions or access dates. Include the course template: BIFX-550 Find-a-Gene template, github.com/ravichas/bifx550-find-a-gene-template.]
+BIFX-550 Find-a-Gene template, github.com/ravichas/bifx550-find-a-gene-template.
+
+
+
+Dohmen, E., Klasberg, S., Bornberg‐Bauer, E., Perrey, S. W., & Kemena, C. (2020). The modular nature of protein evolution: domain rearrangement rates across eukaryotic life. BMC Evolutionary Biology, 20(1), 30. https://doi.org/10.1186/s12862-020-1591-0
+
+Kaur, J., Sharma, A., Sharma, M., Manhas, R. K., Kaur, S., & Kaur, A. (2019). Effect of α-glycosidase inhibitors from endophytic fungus Alternaria destruens on survival and development of insect pest Spodoptera litura Fab. and fungal phytopathogens. Scientific Reports, 9(1), 11400. https://doi.org/10.1038/s41598-019-47838-6
