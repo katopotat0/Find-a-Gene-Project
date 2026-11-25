@@ -5,6 +5,8 @@ Sequences in FASTA format, the inputs for every later step.
 | File | Contents |
 |---|---|
 | `P10253.4 -Human GAA.fasta` | Starting protein (Step 1) |
+| CAR8053950.1 unnamed protein product [Pseudaplemonus limonii] | locus_tag="PSELIMO101_LOCUS3883" |
+
 | `Pseudaplemonus limonii_OZ501438.1.fasta` | /coded_by="complement(join(OZ501438.1:10075393..10075455,
                      OZ501438.1:10075777..10075979,
                      OZ501438.1:10076421..10076561,
@@ -25,15 +27,14 @@ Sequences in FASTA format, the inputs for every later step.
                      OZ501438.1:10081510..10081755,
                      OZ501438.1:10081815..10082003,
                      OZ501438.1:10082069..10082245))" | Translated novel candidate (Step 3) |
+                     
+                     
 | `msa_input.fasta` | All sequences used in the alignment (Step 5) |
-
-| CAR8053950.1 unnamed protein product [Pseudaplemonus limonii] | locus_tag="PSELIMO101_LOCUS3883" |
 
 List the sequences in `msa_input.fasta` with their accessions:
 
 | Name | Species | Accession |
 |---|---|---|
-| [name] | [species] | [accession] |
 | Full=Lysosomal alpha-glucosidase | Homo sapiens - Human | P10253.4 |
 | unnamed protein product | Pseudaplemonus limonii - "Lavender Weevil" | CAR8053950.1 |
 | lysosomal alpha-glucosidase-like isoform X1 | Cylas formicarius - Sweet Potato Weevil | XP_060535179.1 |
