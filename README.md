@@ -1,4 +1,4 @@
-# [Novel protein name]: Find-a-Gene analysis in [Source species]
+# Novel GAA - like protein: Find-a-Gene analysis in Homo sapiens
 
 ] **Template:** replace every item in angle brackets `[ ]`, then delete this line. See [GETTING_STARTED.md](GETTING_STARTED.md) for how to add files.
 
@@ -15,9 +15,9 @@ Author: Kate Kruczynski (Katopotat0)
 | Starting species | Homo sapiens |
 | Starting accession |UniProt: P10253 |
  |
-| Novel candidate |  PREDICTED: Paramacrobiotus metropolitanus lysosomal alpha-glucosidase-like (LOC129590877), transcript variant X2|
-| Source organism | Paramacrobiotus metropolitanus |
-| Source nucleotide record | [WGS or TSA accession and coordinates] |
+| Novel candidate |  unnamed protein product; chromosome 10; locus_tag="PSELIMO101_LOCUS3883"; 1040 aa |
+| Source organism | Pseudaplemonus limonii |
+| Source nucleotide record | CAR8053950.1  |
 | Novelty evidence | [BLASTp top hit in nr: Predicted annotation, 407/853(48%)% identity, 0.0 E-value] |
 | Structure prediction | [Tool; mean pLDDT or QMEAN] |
 | Closest PDB entry | [PDB ID] |
